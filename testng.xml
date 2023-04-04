@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Selenium Automation Suite">
+  <test thread-count="5" name="Login Test">
+    <classes>
+      <class name="com.qa.testcases.DemoTest"/>
+		<methods>
+      		<include name="VerifyLoginPageTest"></include>
+      	</methods>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

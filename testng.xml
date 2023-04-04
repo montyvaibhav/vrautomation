@@ -6,6 +6,7 @@
       <class name="com.qa.testcases.DemoTest"/>
 		<methods>
       		<include name="VerifyLoginPageTest"></include>
+      		<include name="VerifyProjectsTest"></include>
       	</methods>
     </classes>
   </test> <!-- Test -->
